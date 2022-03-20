@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models.Models
+namespace AppLaundry.Models
 {
     public class OrderDetail
     {
